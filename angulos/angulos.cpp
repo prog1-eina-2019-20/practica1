@@ -29,8 +29,6 @@ int main() {
          << endl;
 
     cout << "========" << "========" << "========" << "========" << endl;
-         
-    cout << fixed;
 
     // La instrucción que aparece a continuación es una «instrucción iterativa
     // indexada» o bucle «for» que veremos con detalle en el tema 5. Mientras
