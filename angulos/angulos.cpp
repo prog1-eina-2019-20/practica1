@@ -1,8 +1,8 @@
 /*
  * Curso de Programación 1. Práctica 1
  * Autores: Miguel Ángel Latre y Javier Martínez
- * Última revisión: 20 de septiembre de 2019
- * Resumen: Tarea 5
+ * Última revisión: 30 de septiembre de 2019
+ * Resumen: Tarea 6
  */
 #include <iostream>
 #include <cmath>
